@@ -6,7 +6,7 @@
 # 1. 명령어 해석 기능
 * 사용자와 커널 사이에서 명령을 해석해 전달
 # 결과 사진
-<img src="https://github.com/beom-beom/My-Shell/assets/128284680/8d42cdcd-83d0-4569-acb0-368c557a9ca1"  width="700" height="370">
+![image](https://github.com/beom-beom/My-Shell/assets/128284680/d47510da-4c5c-4710-9f56-4e37489eae47)
 
 # 2.Multi-Pipe
 >Shell_Pipe 구현 
